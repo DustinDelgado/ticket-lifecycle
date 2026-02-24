@@ -56,3 +56,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img width="857" height="302" alt="Screenshot 2026-02-23 at 8 30 24 PM" src="https://github.com/user-attachments/assets/c9e537d6-df94-4297-a9a5-c2c047f19467" />
+
+</p>
