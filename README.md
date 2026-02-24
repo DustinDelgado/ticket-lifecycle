@@ -44,7 +44,7 @@ This screenshot shows an end user submitting a new support ticket. The user prov
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This image displays the newly created ticket appearing in the osTicket agent dashboard. At this stage, the ticket is in an open status and visible to support staff, where it can be reviewed, prioritized, and assigned to an agent.
 </p>
 <br />
 
