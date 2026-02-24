@@ -53,7 +53,7 @@ This image displays the newly created ticket appearing in the osTicket agent das
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This screenshot shows the ticket opened by a support agent, revealing all ticket information including the issue details, message history, and any agent or user responses. This is where troubleshooting, communication, and internal notes occur while the ticket is actively being worked.
 </p>
 <br />
 
@@ -61,3 +61,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img width="857" height="302" alt="Screenshot 2026-02-23 at 8 30 24 PM" src="https://github.com/user-attachments/assets/c9e537d6-df94-4297-a9a5-c2c047f19467" />
 
 </p>
+The final screenshot shows the ticket moved to the closed section of osTicket after the issue has been resolved. Closing the ticket indicates that support has completed the request and no further action is required unless the ticket is reopened.
+</p>
+<br />
+
